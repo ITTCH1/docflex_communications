@@ -33,6 +33,7 @@
         'security/docflex_security.xml',
         'security/ir_rules.xml',
         'security/ir.model.access.csv',
+        'views/mine_menu.xml',
         'views/docflex_ticket_views.xml',
         'views/ticket_classification_views.xml',
         'views/ticket_sections_views.xml',
